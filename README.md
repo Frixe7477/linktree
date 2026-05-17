@@ -10,11 +10,6 @@
 
 ---
 
-<p align="center">
-  <img alt="screenshot" src="<img width="948" height="757" alt="image" src="https://github.com/user-attachments/assets/8f990a3a-4eb1-468e-8250-016051688bd7" />
-">
-</p>
-
 ---
 
 ## 💡 About the project
